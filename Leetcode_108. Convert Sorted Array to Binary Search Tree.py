@@ -67,7 +67,7 @@ class Solution:
         :rtype: TreeNode
         """
         if not nums: return None
-        # if len(nums) == 1: return TreeNode(nums[0])
+        # if len(nums) == 1: return Tree00Node(nums[0])
 
         mid = len(nums) // 2
         root = TreeNode(nums[mid])
