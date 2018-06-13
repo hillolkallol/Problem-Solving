@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a1c759-142f-4d57-88eb-1bdaf864b227" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_118. Pascal's Triangle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_119. Pascal's Triangle II.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,11 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode_118. Pascal's Triangle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Leetcode_118. Pascal's Triangle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Leetcode_118. Pascal's Triangle.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="933">
               <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode_119. Pascal's Triangle II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode_119. Pascal's Triangle II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="933">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,6 +122,7 @@
         <option value="$PROJECT_DIR$/Leetcode_111. Minimum Depth of Binary Tree.py" />
         <option value="$PROJECT_DIR$/Leetcode_112. Path Sum.py" />
         <option value="$PROJECT_DIR$/Leetcode_118. Pascal's Triangle.py" />
+        <option value="$PROJECT_DIR$/Leetcode_119. Pascal's Triangle II.py" />
       </list>
     </option>
   </component>
@@ -539,13 +550,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leetcode_66. Plus One.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode_67. Add Binary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2781">
@@ -903,6 +907,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="933">
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode_119. Pascal's Triangle II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="933">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
