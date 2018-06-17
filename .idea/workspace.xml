@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a1c759-142f-4d57-88eb-1bdaf864b227" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_167. Two Sum II - Input array is sorted.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_168. Excel Sheet Column Title.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Important Code" afterPath="$PROJECT_DIR$/Important Code" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,58 +43,18 @@
       <file leaf-file-name="Important Code" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Important Code">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="378">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode_141. Linked List Cycle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode_141. Linked List Cycle.py">
+      <file leaf-file-name="Leetcode_168. Excel Sheet Column Title.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode_168. Excel Sheet Column Title.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="54" column="15" lean-forward="false" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Leetcode_155. Min Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode_155. Min Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="69" column="32" lean-forward="false" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Leetcode_160. Intersection of Two Linked Lists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode_160. Intersection of Two Linked Lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Leetcode_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="717">
-              <caret line="66" column="31" lean-forward="false" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Leetcode_167. Two Sum II - Input array is sorted.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode_167. Two Sum II - Input array is sorted.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="933">
+              <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -138,7 +99,6 @@
         <option value="$PROJECT_DIR$/Leetcode_100. Same Tree.py" />
         <option value="$PROJECT_DIR$/Leetcode_101. Symmetric Tree.py" />
         <option value="$PROJECT_DIR$/Leetcode_104. Maximum Depth of Binary Tree.py" />
-        <option value="$PROJECT_DIR$/Important Code" />
         <option value="$PROJECT_DIR$/Leetcode_107. Binary Tree Level Order Traversal II.py" />
         <option value="$PROJECT_DIR$/Leetcode_110. Balanced Binary Tree.py" />
         <option value="$PROJECT_DIR$/Leetcode_108. Convert Sorted Array to Binary Search Tree.py" />
@@ -154,6 +114,9 @@
         <option value="$PROJECT_DIR$/Leetcode_155. Min Stack.py" />
         <option value="$PROJECT_DIR$/Leetcode_160. Intersection of Two Linked Lists.py" />
         <option value="$PROJECT_DIR$/Leetcode_167. Two Sum II - Input array is sorted.py" />
+        <option value="$PROJECT_DIR$/Important Code" />
+        <option value="$PROJECT_DIR$/Leetcode.py" />
+        <option value="$PROJECT_DIR$/Leetcode_168. Excel Sheet Column Title.py" />
       </list>
     </option>
   </component>
@@ -581,14 +544,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Important Code">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode_21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -807,14 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Important Code">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode_112. Path Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
@@ -941,8 +888,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode_167. Two Sum II - Input array is sorted.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Important Code">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode_168. Excel Sheet Column Title.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="933">
+          <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
           <folding />
         </state>
       </provider>
