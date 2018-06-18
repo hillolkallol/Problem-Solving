@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a1c759-142f-4d57-88eb-1bdaf864b227" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_189. Rotate Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_190. Reverse Bits.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/ProblemSolving$Leetcode_69__Sqrt_x_.coverage" NAME="Leetcode_69. Sqrt(x) Coverage Results" MODIFIED="1528690088498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProblemSolving$Leetcode_160__Intersection_of_Two_Linked_Lists.coverage" NAME="Leetcode_160. Intersection of Two Linked Lists Coverage Results" MODIFIED="1529195898663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProblemSolving$Leetcode_26.coverage" NAME="Leetcode_26 Coverage Results" MODIFIED="1528518298191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProblemSolving$Leetcode_190__Reverse_Bits.coverage" NAME="Leetcode_190. Reverse Bits Coverage Results" MODIFIED="1529287659844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProblemSolving$Leetcode_53_Maximum_Subarray.coverage" NAME="Leetcode_53_Maximum_Subarray Coverage Results" MODIFIED="1528593100968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProblemSolving$Leetcode_21.coverage" NAME="Leetcode_21 Coverage Results" MODIFIED="1528516172876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProblemSolving$Leetcode_53.coverage" NAME="Leetcode_53 Coverage Results" MODIFIED="1528592056287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -50,11 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode_189. Rotate Array.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Leetcode_189. Rotate Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Leetcode_189. Rotate Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="341">
+              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode_190. Reverse Bits.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode_190. Reverse Bits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -121,6 +132,7 @@
         <option value="$PROJECT_DIR$/Leetcode_171. Excel Sheet Column Number.py" />
         <option value="$PROJECT_DIR$/Leetcode_172. Factorial Trailing Zeroes.py" />
         <option value="$PROJECT_DIR$/Leetcode_189. Rotate Array.py" />
+        <option value="$PROJECT_DIR$/Leetcode_190. Reverse Bits.py" />
       </list>
     </option>
   </component>
@@ -174,25 +186,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Python.Leetcode_189. Rotate Array">
-    <configuration default="false" name="Leetcode_69. Sqrt(x)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProblemSolving" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_69. Sqrt(x).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Leetcode_190. Reverse Bits">
     <configuration default="false" name="Leetcode_141. Linked List Cycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,6 +255,24 @@
       <module name="ProblemSolving" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_189. Rotate Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Leetcode_190. Reverse Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProblemSolving" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_190. Reverse Bits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -480,19 +492,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Leetcode_69. Sqrt(x)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Leetcode_141. Linked List Cycle" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Leetcode_155. Min Stack" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Leetcode_160. Intersection of Two Linked Lists" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Leetcode_189. Rotate Array" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Leetcode_141. Linked List Cycle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Leetcode_155. Min Stack" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Leetcode_160. Intersection of Two Linked Lists" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Leetcode_189. Rotate Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Leetcode_190. Reverse Bits" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Leetcode_189. Rotate Array" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Leetcode_160. Intersection of Two Linked Lists" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Leetcode_155. Min Stack" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Leetcode_141. Linked List Cycle" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Leetcode_69. Sqrt(x)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Leetcode_190. Reverse Bits" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Leetcode_189. Rotate Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Leetcode_160. Intersection of Two Linked Lists" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Leetcode_155. Min Stack" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Leetcode_141. Linked List Cycle" />
       </list>
     </recent_temporary>
   </component>
@@ -548,13 +560,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leetcode_14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode_13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2376">
@@ -905,8 +910,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode_189. Rotate Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="341">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode_190. Reverse Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding />
         </state>
       </provider>
