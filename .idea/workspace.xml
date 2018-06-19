@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a1c759-142f-4d57-88eb-1bdaf864b227" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_204. Count Primes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_205. Isomorphic Strings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,11 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode_204. Count Primes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Leetcode_204. Count Primes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Leetcode_204. Count Primes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="65" column="30" lean-forward="false" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+            <state relative-caret-position="513">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode_205. Isomorphic Strings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode_205. Isomorphic Strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1041">
+              <caret line="67" column="33" lean-forward="false" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -127,6 +137,7 @@
         <option value="$PROJECT_DIR$/Leetcode_191. Number of 1 Bits.py" />
         <option value="$PROJECT_DIR$/Leetcode_203. Remove Linked List Elements.py" />
         <option value="$PROJECT_DIR$/Leetcode_204. Count Primes.py" />
+        <option value="$PROJECT_DIR$/Leetcode_205. Isomorphic Strings.py" />
       </list>
     </option>
   </component>
@@ -554,13 +565,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leetcode_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode_7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1242">
@@ -909,8 +913,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode_204. Count Primes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="65" column="30" lean-forward="false" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+        <state relative-caret-position="513">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode_205. Isomorphic Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1041">
+          <caret line="67" column="33" lean-forward="false" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
           <folding />
         </state>
       </provider>
