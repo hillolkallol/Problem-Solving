@@ -8,6 +8,7 @@
  *
  * @author KD
  * 
+ * Cracking the coding interview 1.1
  * Given two strings, write a method to decide if one is a permutation of other
  * 
  */
