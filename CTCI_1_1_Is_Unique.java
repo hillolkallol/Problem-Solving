@@ -13,7 +13,7 @@
  */
 import java.util.*;
 
-public class CTCI_1_1 {
+public class CTCI_1_1_Is_Unique {
 
 //    using hashmap
 //    public boolean isUnique(String s) {
@@ -63,7 +63,7 @@ public class CTCI_1_1 {
     }
 
     public static void main(String[] args) {
-        CTCI_1_1 ct = new CTCI_1_1();
+        CTCI_1_1_Is_Unique ct = new CTCI_1_1_Is_Unique();
         System.out.println(ct.isUnique("helolo"));
     }
 }
