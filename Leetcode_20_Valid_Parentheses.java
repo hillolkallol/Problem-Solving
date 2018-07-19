@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Leetcode_20;
 
 /**
  *
@@ -43,9 +42,6 @@ Output: true
  */
 import java.util.*;
 public class Leetcode_20_Valid_Parentheses {
-    
-}
-class Solution{
     public boolean isValid(String s){
         Stack<Character> st = new Stack<>();
         for(char c: s.toCharArray()){

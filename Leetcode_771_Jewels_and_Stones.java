@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Leetcode_771;
 
 /**
  *
@@ -29,7 +28,18 @@ S and J will consist of letters and have length at most 50.
 The characters in J are distinct.
  */
 public class Leetcode_771_Jewels_and_Stones {
-    
+    public int numJewelsInStones(String J, String S){
+        int[] arr = new int[128];
+        int count = 0;
+        
+        for(char c: S.toCharArray())
+            arr[c]++;
+        
+        for(char c: J.toCharArray())
+            count += arr[c];
+        
+        return count;
+    }
 }
 // class Solution{
 //     public int numJewelsInStones(String J, String S){
@@ -56,19 +66,4 @@ public class Leetcode_771_Jewels_and_Stones {
 //         return count;
 //     }
 // }
-
-class Solution{
-    public int numJewelsInStones(String J, String S){
-        int[] arr = new int[128];
-        int count = 0;
-        
-        for(char c: S.toCharArray())
-            arr[c]++;
-        
-        for(char c: J.toCharArray())
-            count += arr[c];
-        
-        return count;
-    }
-}
 
