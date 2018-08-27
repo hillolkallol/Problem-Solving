@@ -36,6 +36,8 @@ Return:
     "FizzBuzz"
 ]
  */
+
+import java.util.*;
 public class Leetcode_412_FizzBuzz {
     public List<String> fizzBuzz(int n) {
         List<String> list = new ArrayList<>();
