@@ -27,29 +27,44 @@ public class Leetcode_151_ReverseWordsinaString {
     public String reverseWords(String s) {
         if (s == null || s.length() == 0) return s;
         
-        ArrayList<String> arr = new ArrayList<>();
-        
-        int track = 0, i = 0;
-        for (i=0; i<s.length(); i++) {
-            if(s.charAt(i) == ' ') {
-                arr.add(s.substring(track, i));
-                track = i+1;
-            }
-        }
-        arr.add(s.substring(track, i));
+        String[] arr = s.trim().split("\\s+");
         
         StringBuilder sb = new StringBuilder();
         
-        for (int j = arr.size()-1; j >= 0; j--) {
-            if (arr.get(j) != " ") {
-                sb.append(arr.get(j));
-                sb.append(" ");
-            }
+        for (int j = arr.length-1; j >= 0; j--) {
+                sb.append(arr[j]);
+                if(j != 0) sb.append(" ");
         }
-        sb.delete(sb.length()-1, sb.length());
         
         return sb.toString();
     }
+    
+//    public String reverseWords(String s) {
+//        if (s == null || s.length() == 0) return s;
+//        
+//        ArrayList<String> arr = new ArrayList<>();
+//        
+//        int track = 0, i = 0;
+//        for (i=0; i<s.length(); i++) {
+//            if(s.charAt(i) == ' ') {
+//                arr.add(s.substring(track, i));
+//                track = i+1;
+//            }
+//        }
+//        arr.add(s.substring(track, i));
+//        
+//        StringBuilder sb = new StringBuilder();
+//        
+//        for (int j = arr.size()-1; j >= 0; j--) {
+//            if (arr.get(j) != " ") {
+//                sb.append(arr.get(j));
+//                sb.append(" ");
+//            }
+//        }
+//        sb.delete(sb.length()-1, sb.length());
+//        
+//        return sb.toString();
+//    }
     
     public static void main(String[] args) {
         Leetcode_151_ReverseWordsinaString obj = new Leetcode_151_ReverseWordsinaString();
