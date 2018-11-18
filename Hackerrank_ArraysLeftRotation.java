@@ -55,27 +55,23 @@ public class Hackerrank_ArraysLeftRotation {
     
 }
 
-class Solutionawws {
+class Solutionaa {
 
     // Complete the rotLeft function below.
     static int[] rotLeft(int[] a, int d) {
-        int curr = 0;
-        int temp = d;
-        while (curr < a.length) {
-            swap(a, curr, d);
-            if (d < a.length - 1) d++;
-            else if (d == a.length - 1) d = temp;
-            curr++;
+        int[] res = new int[a.length];
+        d %= a.length;
+        for (int i = 0; i < a.length; i++) {
+            res[i] = a[(i + d) % a.length];
         }
-        if (temp % 2 != 0) swap(a, a.length-2, a.length-1);
-        return a;
+        return res;
     }
 
-    public static void swap(int[] a, int curr, int d) {
-        int temp = a[curr];
-        a[curr] = a[d];
-        a[d] = temp;
-    }
+    // public static void swap(int[] a, int curr, int d) {
+    //     int temp = a[curr];
+    //     a[curr] = a[d];
+    //     a[d] = temp;
+    // }
 
     private static final Scanner scanner = new Scanner(System.in);
 
