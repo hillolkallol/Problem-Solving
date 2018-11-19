@@ -100,12 +100,26 @@ public class Hackerrank_2DArrayDS {
     
 }
 
-class Solutionassaa{
+class Solutionsaaa {
 
     // Complete the hourglassSum function below.
     static int hourglassSum(int[][] arr) {
+        int max = Integer.MIN_VALUE;
 
+        for (int row = 0; row < 6; row++) {
+            for (int col = 0; col < 6; col++) {
+                if (row < 4 && col < 4) {
+                    int temp = calcSum(arr, row, col);
+                    max = Math.max(max, temp);
+                }
+            }
+        }
+        return max;
+    }
 
+    public static int calcSum(int[][] arr, int row, int col) {
+        return arr[row][col] + arr[row][col+1] + arr[row][col+2] + arr[row+1][col+1] + 
+        arr[row+2][col] + arr[row+2][col+1] + arr[row+2][col+2]; 
     }
 
     private static final Scanner scanner = new Scanner(System.in);
